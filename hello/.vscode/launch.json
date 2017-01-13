@@ -2,10 +2,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Run l_stream.js",
+            "name": "Run l_crypto.js",
             "type": "node",
             "request": "launch",
-            "program": "${workspaceRoot}/l_stream.js",
+            "program": "${workspaceRoot}/l_crypto.js",
             "stopOnEntry": false,
             "args": [],
             "cwd": "${workspaceRoot}",
